@@ -16,7 +16,6 @@ Examples of tweets
 Template: “contents”,class (1=harmful, 0=non harmful, etc.):
 "Ja mam dla ciebie lepszą propozycję : powieś się gdzieś pod lasem UB-ecka gnido .",1
 "macie jej numer zdissujcie ją 8)",1
-"Gosia się bardzo nudzi i chętnie z wami porozmawia. macie jej numer - [NUMER TEL.] dzwonić może każdy, ale sms tylko plus.",1
 "huju jebany oddawaj server gnoju glubi frajezre kutasie oddawaj bo cie zajebie huju zzglosilem cie i tak nie będziesz miec konta hahahahahahahhahahahaahha",1
 "Czerwone Gitary, Historia jednej znajomości... i parawany które istniały zawsze…",0
 
