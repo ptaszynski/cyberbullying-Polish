@@ -60,6 +60,7 @@ Paweł Dybała, Jagiellonian University in Kraków, Poland
 
 
 References
+
 [1] Michal E. Ptaszynski, Fumito Masui. (2018). “Automatic Cyberbullying Detection: Emerging Research and Opportunities”, IGI Global Publishing (November 2018), ISBN: 9781522552499.
 
 [2] Michal Ptaszynski, Juuso Kalevi Kristian Eronen and Fumito Masui. (2017). "Learning Deep on Cyberbullying is Always Better Than Brute Force", IJCAI 2017 3rd Workshop on Linguistic and Cognitive Approaches to Dialogue Agents (LaCATODA 2017), Melbourne, Australia, August 19-25, 2017
