@@ -52,14 +52,11 @@ The Perl script calculates Micro-Average F-score (microF) and Macro-Average F-sc
 
 Authors
 
-Michał Ptaszyński (ptaszynski@ieee.org)
-Kitami Institute of Technology, Japan
+Michał Ptaszyński (ptaszynski@ieee.org), Kitami Institute of Technology, Japan
 
-Agata Pieciukiewicz
-Polish-Japanese Academy of Information Technology, Poland
+Agata Pieciukiewicz, Polish-Japanese Academy of Information Technology, Poland
 
-Paweł Dybała
-Jagiellonian University in Kraków, Poland
+Paweł Dybała, Jagiellonian University in Kraków, Poland
 
 
 References
