@@ -3,7 +3,7 @@ Dataset for Automatic Cyberbullying Detection in Polish Laguage
 Applied in PolEval 2019 Task 6:
 http://poleval.pl/tasks/task6
 
-Problem definition
+[Problem definition]
 
 Although the problem of humiliating and slandering people through the Internet has existed almost as long as communication via the Internet between people, the appearance of new devices, such as smartphones and tablet computers, which allow using this medium not only at home, work or school but also in motion, has further exacerbated the problem. Especially recent decade, during which Social Networking Services (SNS), such as Facebook and Twitter, rapidly grew in popularity, has brought to light the problem of unethical behaviors in Internet environments, which has been greatly impairing public mental health in adults and, for the most, in younger users and children. It is the problem of cyberbullying (CB), defined as exploitation of open online means of communication, such as Internet forum boards, or SNS to convey harmful and disturbing information about private individuals, often children and students.
 
@@ -14,7 +14,7 @@ Tasks available under this dataset allow users to try their classification metho
 The goal of the tasks is to classify the tweets into cyberbullying/harmful and non-cyberbullying/non-harmful with the highest possible Precision, Recall, balanced F-score and Accuracy. An additional sub-task focuses on differentiating between various types of harmful information, i.e., cyberbullying or hate-speech.
 
 
-Examples of tweets
+[Examples of tweets]
 
 Template: “contents”,class (1=harmful, 0=non harmful, etc.):
 "Ja mam dla ciebie lepszą propozycję : powieś się gdzieś pod lasem UB-ecka gnido .",1
@@ -23,7 +23,7 @@ Template: “contents”,class (1=harmful, 0=non harmful, etc.):
 "Czerwone Gitary, Historia jednej znajomości... i parawany które istniały zawsze…",0
 
 
-Task description
+[Task description]
 
 Task 1: Harmful vs non-harmful
 
@@ -51,7 +51,7 @@ perl evaluate2.pl results.txt > output.txt
 The Perl script calculates Micro-Average F-score (microF) and Macro-Average F-score (macroF). In evaluation one should look primarily at microF to treat all instances equally since the number of instances is different for each class. The additional macroF, treating equally not all instances, but rather all classes, is used to provide additional insight into the results.
 
 
-Authors
+[Authors]
 
 Michał Ptaszyński (ptaszynski@ieee.org), Kitami Institute of Technology, Japan
 
@@ -60,7 +60,7 @@ Agata Pieciukiewicz, Polish-Japanese Academy of Information Technology, Poland
 Paweł Dybała, Jagiellonian University in Kraków, Poland
 
 
-References
+[References]
 
 [1] Michal E. Ptaszynski, Fumito Masui. (2018). “Automatic Cyberbullying Detection: Emerging Research and Opportunities”, IGI Global Publishing (November 2018), ISBN: 9781522552499.
 
