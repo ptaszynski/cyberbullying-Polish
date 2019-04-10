@@ -17,9 +17,13 @@ The goal of the tasks is to classify the tweets into cyberbullying/harmful and n
 [EXAMPLES OF TWEETS]
 
 Template: “contents”,class (1=harmful, 0=non harmful, etc.):
+
 "Ja mam dla ciebie lepszą propozycję : powieś się gdzieś pod lasem UB-ecka gnido .",1
+
 "macie jej numer zdissujcie ją 8)",1
+
 "huju jebany oddawaj server gnoju glubi frajezre kutasie oddawaj bo cie zajebie huju zzglosilem cie i tak nie będziesz miec konta hahahahahahahhahahahaahha",1
+
 "Czerwone Gitary, Historia jednej znajomości... i parawany które istniały zawsze…",0
 
 
@@ -50,14 +54,17 @@ perl evaluate2.pl results.txt > output.txt
 
 The Perl script calculates Micro-Average F-score (microF) and Macro-Average F-score (macroF). In evaluation one should look primarily at microF to treat all instances equally since the number of instances is different for each class. The additional macroF, treating equally not all instances, but rather all classes, is used to provide additional insight into the results.
 
+[DISCLAIMER]
+
+Due to Twitter policies we are not able to release to the public the contents of the tweets, thus we provided files with tweet IDs, which can be used to download the original tweets. If you have any questions regarding the dataset, or are having troubles with downloading the original tweets, please contact Michal Ptaszynski (email below).
 
 [AUTHORS]
 
-Michał Ptaszyński (ptaszynski@ieee.org), Kitami Institute of Technology, Japan
+Michal Ptaszynski (ptaszynski@ieee.org), Kitami Institute of Technology, Japan
 
 Agata Pieciukiewicz, Polish-Japanese Academy of Information Technology, Poland
 
-Paweł Dybała, Jagiellonian University in Kraków, Poland
+Pawel Dybala, Jagiellonian University in Kraków, Poland
 
 
 [REFERENCES]
