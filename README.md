@@ -1,6 +1,7 @@
 Dataset for Automatic Cyberbullying Detection in Polish Laguage
 
 Applied in PolEval 2019 Task 6:
+
 http://poleval.pl/tasks/task6
 
 [PROBLEM DEFINITION]
