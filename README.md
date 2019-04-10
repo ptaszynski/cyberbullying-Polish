@@ -17,7 +17,9 @@ The goal of the tasks is to classify the tweets into cyberbullying/harmful and n
 
 [EXAMPLES OF TWEETS]
 
-Template: “contents”,class (1=harmful, 0=non harmful, etc.):
+Template: 
+
+“contents”,class (1=harmful, 0=non harmful, etc.):
 
 "Ja mam dla ciebie lepszą propozycję : powieś się gdzieś pod lasem UB-ecka gnido .",1
 
