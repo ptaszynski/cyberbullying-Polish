@@ -59,7 +59,7 @@ The Perl script calculates Micro-Average F-score (microF) and Macro-Average F-sc
 
 [DISCLAIMER]
 
-Due to Twitter policies we are not able to release to the public the contents of the tweets, thus we provided files with tweet IDs, which can be used to download the original tweets. If you have any questions regarding the dataset, or are having troubles with downloading the original tweets, please contact Michal Ptaszynski (email below).
+Due to Twitter policies we are not able to release to the public the contents of the tweets, thus we provided files with tweet IDs, which can be used to download the original tweets. To download the tweets you can use any of the widely availbale tools. You can also use the provided scrypt (ids_to_text.py). To be able to download the tweets you will need to provide your access tokens for Twitter Developers. If you do not have such tokens, you will need to apply for a developer account. If you have any questions regarding the dataset, or are having troubles with downloading the original tweets, please contact directly Michal Ptaszynski (email below).
 
 [AUTHORS]
 
